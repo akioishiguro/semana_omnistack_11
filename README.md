@@ -25,7 +25,7 @@ For run the code, open the respective folders and execute
 
 ``` JavaScript
 //Install dependencies
-npm install <dependencies>
+npm install
 
 //Run the application
 npm start
